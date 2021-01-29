@@ -1,15 +1,16 @@
-<div style="cursor: url(https://raw.githubusercontent.com/sampsonli/sampsonli/img/o_micon.png), auto">
-
 ## Hi 大家好 👋
 
 ### 自我介绍 😄
 
-我叫李春， 一名资深前端， 13年就开始从事于前端开发, 拥有丰厚的开发经验。
+我叫李春， 一名资深前端工程师， 13年就开始从事于前端开发, 拥有丰厚的开发经验。
 
 
 ### 擅长领域 👯
 
-擅长nodejs/vuejs/reactjs/css3/html5/小程序...
+* 擅长nodejs/vue/react/css3/html5/小程序...
+* 各种性能优化，体验优化...
+* 熟练webpack打包环境搭建， 项目部署等等。
+
 
 ### 突出作品 ⚡
 
@@ -31,4 +32,3 @@
 2. phone: 13088861255
 
 
-</div>
