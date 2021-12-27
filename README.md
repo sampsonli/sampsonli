@@ -14,7 +14,7 @@
 
 ### 突出作品 ⚡
 
-1. [redux-spring](https://github.com/sampsonli/redux-spring) react+redux 二次封装模块化库
+1. [mtor](https://github.com/sampsonli/mtor) react数据流管理库
 2. [babel_plugin_webpack_dynamic_import](https://github.com/sampsonli/babel_plugin_webpack_dynamic_import) 一个处理按需加载数据保留（react） babel 插件
 3. [react_template_project](https://github.com/sampsonli/react_template_project) 最新react+webpack脚手架
 
